@@ -1,8 +1,8 @@
 ### Hi there, I'm RIKA 👋
 
 
-- 🌱 I’m currently working on a customer-faced event application, wydt! Check out my repo.
-- 🔭 I’m currently learning Next.js and data structures/algos
+- 🌱 I’m currently building include.io!
+- 🔭 I’m currently learning Typesctipt & RxJs. 
 - 💬 Ask me about ANYTHING
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rika-ciminieri/)
 - 😄 Pronouns: She/Her
