@@ -1,7 +1,7 @@
 ### Hi there, I'm RIKA 👋
 
 
-- 🌱 I’m currently building include.io!
+- 🌱 I’m currently building squadjobs.com!
 - 🔭 I’m currently learning Typesctipt & RxJs. 
 - 💬 Ask me about ANYTHING
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rika-ciminieri/)
