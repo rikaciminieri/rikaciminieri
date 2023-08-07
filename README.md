@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently building squadjobs.com!
-- 🔭 I’m currently learning Typesctipt & RxJs. 
+- 🔭 I’m currently learning the ins and outs of Node.js
 - 💬 Ask me about ANYTHING
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rika-ciminieri/)
 - 😄 Pronouns: She/Her
